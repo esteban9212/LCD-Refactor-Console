@@ -1,5 +1,5 @@
 # LCDRefactor_Esteban Aguirre Patiño
-Programa que emula una 7 segmentos de tamaño dinámico, cumpliendo los siguientes requerimientos
+Programa que emula un 7 segmentos de tamaño dinámico, cumpliendo los siguientes requerimientos
 # LCD refactor
 
  
